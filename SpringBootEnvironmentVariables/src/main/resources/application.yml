@@ -1,4 +1,6 @@
 server:
   port: 8080
   
-
+spring.boot.tutorial:
+  variable01: ${variable01}
+  variable02: ${variable02}

@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.boot.tutorial.variable01",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.tutorial.variable01'"
+  },
+  {
+    "name": "spring.boot.tutorial.variable02",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.tutorial.variable02'"
+  }
+]}
