@@ -15,6 +15,6 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String home() {
-		return "Spring Boot Tutorial Variables: " + variable01 + " - " + variable02;
+		return "Spring Boot Tutorial Variables: " + variable01  + " - " + variable02;
 	}
 }
